@@ -2,9 +2,9 @@ Color calculator
 
 ## Description
 
-**version 1.0**
+**version 2.0**
 
-Calculates Euclidean distance of RGB colors and gives advice on ignoring certain colors or color pairs depending on the type of colorblindness one might have.
+Calculates Euclidean distance of RGB colors and gives advice on which color combos to use.
 
 
 Jeremy Anderson
