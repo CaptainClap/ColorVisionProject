@@ -1,0 +1,9 @@
+Orange 230 159 0
+SkyBlue 86 180 233
+BluishGreen 0 158 115
+Yellow 240 228 66
+Blue 0 114 178
+Vermillion 213 94 0
+ReddishPurple 204 121 167
+Black 0 0 0
+// Okabe-Ito general colorblind-safe palette
